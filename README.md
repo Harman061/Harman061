@@ -36,8 +36,8 @@ Me after 6 pm <br>
 
 <h4> Jokes apart, Being a 22 y/o dreamer, I get fascinated by the pace by which tech is moving and genuinely feel the depth of tech and how furthur limitless it is with endless possibilities, making human life easier.<br>
 I like to read and contribute in AI projects (not a random guy, who is just following the hype of AI wave)<br>
-Since 2020, when AI boom was not even there, I felt a heavy curiosity towards this domain and got myself into this field, done my bachelors in 2024, obviously specilaized in AIML and now giving full throtle in building something impactful.<br>
-Vibe coding, AI protocols, 100+ tools coming everyday, I'm just learning,learning and learning.
+Since 2020, when AI boom was not even there, I felt a heavy curiosity towards this domain and got myself into this field, done my bachelors in 2024, obviously specialized in AIML and now giving full throtle in building something impactful.<br>
+Vibe coding, AI protocols, 100+ tools coming everyday and what else, I'm on a mission of observing and learning everyday.
 </h4>
 
 <br><br>
