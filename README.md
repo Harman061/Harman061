@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harman Singh</h1>
+<h1 align="center">Hi, I'm Harman Singh</h1> <img src= "https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harman061&label=Profile%20views&color=0e75b6&style=flat" alt="harman061" /> </p>
