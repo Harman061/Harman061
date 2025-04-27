@@ -25,8 +25,9 @@ More about me ???
 
 now lemme cry on this
 
-Me 9 - 5 
+Me 9 - 5 <br>
 <img src= "https://private-user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3Mzk3NzYsIm5iZiI6MTc0NTczOTQ3NiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU0OTctNDlhYmQzY2EtYjA0OC00ZjI3LWI3ZTAtZWE2YTdiMTcyYWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI3VDA3Mzc1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjZmYyZTRhMzExMTMxMDE3ZjViNzgyZDhiNGI5NzQ4NWFkODI2N2MzMTg4N2ZkYjRiYjRlZGIyZmFlYzdkNzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TKN3SFORG4FBrrXynctQR_fxMcLgm0RqUbwSMabQXD4" width="300" 
      height="300" />
-Me after 6 pm 
+     <br>
+Me after 6 pm <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
