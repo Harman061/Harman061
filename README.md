@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Harman Singh <img src= "https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40" 
+<h1 align="center"><ing src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NDA2NzEsIm5iZiI6MTc0NTc0MDM3MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI3VDA3NTI1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzNWFkMTRlNTRiYzdkZjdmYTNkMDFhYmUxZWJiNzJhODNmNWFkMmVmMzBiOWU4ZTQwNzk3ODQzMGFkODg2ZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kv5JqH5VztRjAerjKXstEactOb_wkq-dK_Rt3FfbJ-k" width="40" 
+     height="30" />, I'm Harman Singh <img src= "https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40" 
      height="30" /></h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
