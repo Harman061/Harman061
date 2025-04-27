@@ -34,11 +34,11 @@ Me 9 - 5 <br>
 Me after 6 pm <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 
-<h4> Jokes apart, Being a 22 y/o dreamer, I get fascinated by the pace by which tech is moving and genuinely feel the depth of tech and how furthur limitless it is with endless possibilities, making human life easier.
-I like to read and contribute in AI projects (not a random guy, who is just following the hype of AI wave)
-Since 2020, when AI boom was not even there, I felt a heavy curiosity towards this domain and got myself into this field, done my bachelors in 2024, obviously specilaized in AIML and now giving full throtle in making something impactful.
+<h4> Jokes apart, Being a 22 y/o dreamer, I get fascinated by the pace by which tech is moving and genuinely feel the depth of tech and how furthur limitless it is with endless possibilities, making human life easier.<br>
+I like to read and contribute in AI projects (not a random guy, who is just following the hype of AI wave)<br>
+Since 2020, when AI boom was not even there, I felt a heavy curiosity towards this domain and got myself into this field, done my bachelors in 2024, obviously specilaized in AIML and now giving full throtle in building something impactful.<br>
 Vibe coding, AI protocols, 100+ tools coming everyday, I'm just learning,learning and learning.
 </h4>
 
-
+<br><br>
 I don't know what tech will look like after 3 decades but what I know is it would be something you aren't even aware of in 2025 !!
