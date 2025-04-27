@@ -26,7 +26,7 @@
 More about me ???
 now lemme cry on this
 
-Me 9 - 5                                                 Me after 6 pm
+<p>Me 9 - 5                                                 Me after 6 pm </p> 
  
 <img src= "https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300" 
      height="300" />
