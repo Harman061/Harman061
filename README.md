@@ -29,7 +29,7 @@ now lemme cry on this
 Me 9 - 5               
 <img src= "https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300" 
      height="300" />
-            Me after 6 pm 
+Me after 6 pm                    
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 
 <h4> Jokes apart, Being a 22 y/o dreamer, I get fascinated by the pace by which tech is moving and genuinely feel the depth of tech and how furthur limitless it is with endless possibilities, making human life easier.<br>
