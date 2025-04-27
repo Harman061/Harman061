@@ -18,3 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harman061&show_icons=true&locale=en" alt="harman061" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harman061&" alt="harman061" /></p>
+
+
+More about me ???
+
+now lemme cry on this
+
+Me after 6 pm 
+https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif
